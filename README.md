@@ -26,7 +26,8 @@ Here are some ideas to get you started:
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-**Blog**：[My Blog](https://hasaki.github.io)
-![](https://img.shields.io/badge/python-3.8-orange?style=for-the—badge&logo=python&logoColor=orange)
+**Blog**：[My Blog](https://hasaki.github.io)<br>
+ <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=hasaki99" alt="访客统计" />
 <a href="https://github.com/hasaki99"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hasaki99&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> <br>
 <a href="https://github.com/hasaki99"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaki99&layout=compact&theme=vue&hide_border=true" /></a><br>
