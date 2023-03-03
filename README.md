@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-**Blog**：[My Blog](https://hasaki.github.io)<br>
+**Blog**：[My Blog](https://hasaki99.github.io)<br>
 
   
   <!--  skill badge 技能徽章 -->
