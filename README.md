@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat) -->
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![IDEA Badge](https://img.shields.io/badge/IDEA-E2231A?logo=IntelliJ&logoColor=fff&style=flat)
 ![XShell Badge](https://img.shields.io/badge/Xshell-FF6900?logo=NetSarang&logoColor=fff&style=flat)
