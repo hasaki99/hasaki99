@@ -104,9 +104,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/hasaki99"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaki99&layout=compact&theme=vue&hide_border=true" /></a><br>
 
 <!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /><br>
   
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=hasaki99&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
+# Thanks for your coming :green_heart:
 
